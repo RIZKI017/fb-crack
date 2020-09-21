@@ -10,9 +10,9 @@ $ pkg install python2
 
 $ pkg install curl
 
-$ git clone https://github.com/Mr-G0B3Y/GbyFB.git
+$ git clone https://github.com/RIFKI017
 
-$ cd GbyFB
+$ cd congkang
 
 $ ls
 
@@ -20,4 +20,4 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ python2 GbyFB.py
+$ python2 congkang.py
