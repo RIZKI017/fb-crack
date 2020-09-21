@@ -22,7 +22,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo = '\x1b[1;93m*TOOLS FACEBOOK RIFKI017*\n\x1b[1;93m* \x1b[1;97mTOOLS RIFKI017  \x1b[1;91m: \x1b[1;96mRIFKI017\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mHati-Hati Kena Sesi Akunmu!\n\x1b[0m\n[*] TOOLS PRIBADI BY RIFKI017\n'
+logo = '\x1b[1;93m*TOOLS FACEBOOK RIFKI017*\n\x1b[1;93m* \x1b[1;97mCONGKANGCITI  \x1b[1;91m: \x1b[1;96mRIFKI017\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNote \x1b[1;91m: \x1b[1;96mHati-Hati Kena Sesi Akunmu!\n\x1b[0m\n[*] TOOLS PRIBADI BY RIFKI017\n'
 
 def tik():
     titik = [
